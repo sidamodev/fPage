@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=@dev.sidamo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=300&section=header&text=@dev.sidamo&fontSize=90)
 
 # 커피를 좋아하는 예비 주니어 개발자입니다.👋
 
@@ -8,9 +8,17 @@
 
 # Activities
 
+[![sidamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidamodev)](https://github.com/sidamodev/fPage)
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/sidamodev/nodejs)
 
 ## 🛠 Skills
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<div style="display: inline-block; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="200" height="200" /></div>
+<div style="display: inline-block; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="200" height="200" /></div>
+<div style="display: inline-block; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="200" height="200" /></div>
+
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
