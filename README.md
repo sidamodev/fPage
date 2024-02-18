@@ -10,7 +10,7 @@
 
 [![sidamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidamodev)](https://github.com/sidamodev/fPage)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/sidamodev/nodejs)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/sidamodev/swea)
 
 ## 🛠 Skills
 
