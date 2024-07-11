@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=300&section=header&text=@dev.sidamo&fontSize=90)
 
-# ☕커피를 좋아하는 예비 주니어 개발자입니다.👋
+# ☕커피를 좋아하는 주니어 개발자입니다.👋
 
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
